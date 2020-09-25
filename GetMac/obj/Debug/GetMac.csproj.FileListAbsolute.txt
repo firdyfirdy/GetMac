@@ -1,0 +1,7 @@
+D:\Firdy\Lab\GetMac\GetMac\GetMac\bin\Debug\GetMac.exe.config
+D:\Firdy\Lab\GetMac\GetMac\GetMac\bin\Debug\GetMac.exe
+D:\Firdy\Lab\GetMac\GetMac\GetMac\bin\Debug\GetMac.pdb
+D:\Firdy\Lab\GetMac\GetMac\GetMac\obj\Debug\GetMac.csprojAssemblyReference.cache
+D:\Firdy\Lab\GetMac\GetMac\GetMac\obj\Debug\GetMac.csproj.CoreCompileInputs.cache
+D:\Firdy\Lab\GetMac\GetMac\GetMac\obj\Debug\GetMac.exe
+D:\Firdy\Lab\GetMac\GetMac\GetMac\obj\Debug\GetMac.pdb
